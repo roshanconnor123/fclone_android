@@ -6,9 +6,9 @@
 ## 📦 Pre-requisites:-
 1. Install [Termux](https://play.google.com/store/apps/details?id=com.termux&hl=en_IN%20%20) - Remember to enable storage Permission by going to settings
 
-2. Install Python & Wget In Termux
+2. Install Python & Git In Termux
 ```
-pkg install python wget
+pkg install python git
 ```
 3. Downloaded Service Accounts (SAs) - Generate them using [Autorclone](https://github.com/xyou365/AutoRclone) or [Folderclone](https://github.com/Spazzlo/folderclone)
 
