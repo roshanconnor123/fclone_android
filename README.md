@@ -8,7 +8,7 @@
 
 2. Install Python & Wget In Termux
 ```
-pkg install python && pkg install wget
+pkg install python wget
 ```
 3. Downloaded Service Accounts (SAs) - Generate them using [Autorclone](https://github.com/xyou365/AutoRclone) or [Folderclone](https://github.com/Spazzlo/folderclone)
 
