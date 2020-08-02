@@ -21,7 +21,7 @@ git clone https://github.com/roshanconnor123/fclone_android && mv fclone_android
 
 2. Create a Folder in your Internal storage and name it as **Fclone**
 
-3. Copy the accounts Folder from our Autorclone/Folder (Which you had setup in your Phone or PC before) and Paste it in newly created **Fclone** Folder
+3. Copy the accounts Folder from our Autorclone/Folderclone Folder (Which you had setup in your Phone or PC before) and Paste it in newly created **Fclone** Folder
 
 4. Download this File 
 
