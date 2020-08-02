@@ -34,5 +34,7 @@ Now Follow what you see in you screen and choose what you wish to do - Copy,Move
 
 👨 [Ansh Mittal](https://t.me/iamAnshMittal)
 
+👨 [Krishne](https://t.me/krishne)
+
 ## License
 This project is licensed under the MIT License - see the [LICENSE](https://github.com/roshanconnor123/fclone_android/blob/master/LICENSE) file for details
