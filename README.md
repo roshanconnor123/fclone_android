@@ -18,9 +18,9 @@ pkg install python git
 ```
 mkdir /sdcard/fclone/ && git clone https://github.com/roshanconnor123/fclone_android && mv fclone_android/fclone /data/data/com.termux/files/usr/bin/fclone && chmod 777 /data/data/com.termux/files/usr/bin/fclone && mv fclone_android/fc.py /sdcard/fclone/ && fclone version
 ```
-2. You can see that a new Folder called **Fclone** is created in your internal storage
+2. You can see that a new Folder called **fclone** is created in your internal storage
 
-3. Copy the accounts Folder from our Autorclone/Folderclone Folder (Which you had setup in your Phone or PC before) and Paste it in newly created **Fclone** Folder in your Internal Storage
+3. Copy the accounts Folder from our Autorclone/Folderclone Folder (Which you had setup in your Phone or PC before) and Paste it in newly created **fclone** Folder in your Internal Storage
 ## 💣 Running Fclone
 Just run this command everytime in your termux
 ```
