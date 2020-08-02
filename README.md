@@ -16,18 +16,11 @@ pkg install python git
 ## 💊 Installation:-
 1. Run the code in yout termux - It will install Fclone
 ```
-git clone https://github.com/roshanconnor123/fclone_android && mv fclone_android/fclone /data/data/com.termux/files/usr/bin/fclone && chmod 777 /data/data/com.termux/files/usr/bin/fclone && fclone version
+mkdir /sdcard/fclone/ && git clone https://github.com/roshanconnor123/fclone_android && mv fclone_android/fclone /data/data/com.termux/files/usr/bin/fclone && chmod 777 /data/data/com.termux/files/usr/bin/fclone && mv fclone_android/fc.py /sdcard/fclone/ && fclone version
 ```
+2. You can see that a new Folder called **Fclone** is created in your internal storage
 
-2. Create a Folder in your Internal storage and name it as **Fclone**
-
-3. Copy the accounts Folder from our Autorclone/Folderclone Folder (Which you had setup in your Phone or PC before) and Paste it in newly created **Fclone** Folder
-
-4. Download this File 
-
-[<p align="center"><img src="https://image.freepik.com/free-vector/download-button-white-background_97458-63.jpg" width="280" height="180"></p>](https://www23.zippyshare.com/v/k4ddLYlE/file.html)
-
-5. Move it to newly created **Fclone** Folder
+3. Copy the accounts Folder from our Autorclone/Folderclone Folder (Which you had setup in your Phone or PC before) and Paste it in newly created **Fclone** Folder in your Internal Storage
 ## 💣 Running Fclone
 Just run this command everytime in your termux
 ```
