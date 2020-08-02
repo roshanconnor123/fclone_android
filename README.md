@@ -21,6 +21,8 @@ mkdir /sdcard/fclone/ && git clone https://github.com/roshanconnor123/fclone_and
 2. You can see that a new Folder called **fclone** is created in your internal storage
 
 3. Copy the accounts Folder from our Autorclone/Folderclone Folder (Which you had setup in your Phone or PC before) and Paste it in newly created **fclone** Folder in your Internal Storage
+
+4. Open accounts Folder and Rename any one of the jsons as 1.json
 ## 💣 Running Fclone
 Just run this command everytime in your termux
 ```
