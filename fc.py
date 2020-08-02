@@ -7,7 +7,6 @@ text_file.close()
 username = getpass.getuser()
 print('\033[1;31;40mHey,Sexy! wanna clone some TBs?\nLets Get you started\n')
 FRflag = ("--drive-server-side-across-configs --ignore-existing --stats=1s --stats-one-line -vP --checkers=256 --transfers=256 --drive-pacer-min-sleep=1ms --drive-pacer-burst=5000 --check-first")
-SRflag = ("--transfers 50 -v --stats-one-line --stats=15s --ignore-existing --drive-server-side-across-configs --drive-chunk-size 128M --drive-acknowledge-abuse --drive-keep-revision-forever")
 vrflag = ('--fast-list --verbose=2 --checkers=64 --transfers=128 -q')
 rmflag = ('--drive-use-trash=true --verbose=2 --fast-list')
 if os.path.isdir('accounts'):
