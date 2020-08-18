@@ -16,7 +16,7 @@ pkg install python git
 ## 💊 Installation:-
 1. Run the code in your Termux - It will install Fclone
 ```
-mkdir /sdcard/fclone/ && git clone https://github.com/roshanconnor123/fclone_android && mv fclone_android/fclone /data/data/com.termux/files/usr/bin/fclone && chmod 777 /data/data/com.termux/files/usr/bin/fclone && mv fclone_android/fc.py /sdcard/fclone/ && fclone version
+mkdir /sdcard/fclone/ && git clone https://github.com/roshanconnor123/fclone_android && mv fclone_android/fclone /data/data/com.termux/files/usr/bin/ && chmod 777 /data/data/com.termux/files/usr/bin/fclone && mv fclone_android/fc.py /sdcard/fclone/ && fclone version
 ```
 2. You can see that a new Folder called **fclone** is created in your internal storage
 
