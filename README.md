@@ -1,7 +1,6 @@
 # Fclone For Android
-🔴 Just another Android Port of [Fclone](https://github.com/mawaya/rclone)
+🔴 Just another Android Port of [Fclone](https://github.com/mawaya/rclone) - ARM64 version
 
->>This one is for ARM64 devices
 
 🔷 Fclone is just another Tool like Autorclone/Folderclone/Gclone to bypass the 750GB limit by google (more optimised for speed)
 
